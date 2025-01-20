@@ -1,2 +1,2 @@
 # projects
-This repository is made to showcase project made by Tomás.
+This repository is made to showcase projects made by Tomás.
