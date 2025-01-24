@@ -1,2 +1,2 @@
 # Projects
-This repository is made to showcase projects made by Tomás.
+This repository is made to showcase data analysis projects made by Tomás.
